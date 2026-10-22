@@ -13,6 +13,8 @@ public class hoten {
         // In ra họ tên theo dữ liệu nhập vào
         System.out.println("Họ tên vừa nhập: " + hoTen);
         
+        System.out.println("Sửa đổi lần 2");
+        
         scanner.close();
     }
 }
